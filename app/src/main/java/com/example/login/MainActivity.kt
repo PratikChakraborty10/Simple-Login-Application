@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
 
         signup.setOnClickListener {
             startActivity(Intent(this, SignUpActivity::class.java))
-            finish()
         }
 
 
