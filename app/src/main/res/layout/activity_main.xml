@@ -11,7 +11,7 @@
 
     <Button
         android:id="@+id/signup"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="DON'T HAVE ACCOUNT"
         app:layout_constraintTop_toTopOf="parent"
@@ -20,6 +20,9 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintVertical_bias="1.0"
         android:paddingTop="20dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:background="@drawable/dnt_ac_bt"
         android:paddingBottom="20dp"
         />
 

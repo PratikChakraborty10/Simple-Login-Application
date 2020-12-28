@@ -64,6 +64,7 @@
         android:paddingBottom="10dp"/>
 
     <Button
+        android:id="@+id/sign_up_bt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingLeft="50dp"
