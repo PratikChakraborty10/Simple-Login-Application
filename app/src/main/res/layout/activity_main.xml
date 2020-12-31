@@ -23,8 +23,7 @@
         android:paddingLeft="50dp"
         android:paddingRight="50dp"
         android:background="@drawable/dnt_ac_bt"
-        android:paddingBottom="20dp"
-        />
+        android:paddingBottom="20dp"/>
 
 
     <EditText
