@@ -9,6 +9,8 @@
 
 
 
+
+
     <Button
         android:id="@+id/signup"
         android:layout_width="match_parent"
@@ -63,6 +65,7 @@
         android:paddingLeft="20dp"/>
 
     <Button
+        android:id="@+id/login_bt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="LOGIN"
